@@ -1,0 +1,43 @@
+#gui,
+#fliptabs,
+#lists {
+    background: #101417;
+}
+
+#top {
+    background: #101417;
+    background-color: none;
+    color: #fff !important;
+}
+
+#gui * {
+    background: #101417;
+    color: #fff;
+}
+
+#fliptabs * {
+    background: #101417;
+    color: #fff;
+}
+
+.lists * {
+    background: #101417 !important;
+    color: #fff;
+}
+
+.aa,
+.bb,
+.cc {
+    background: #73c571 !important;
+}
+
+#zef_head,
+#rp_head,
+#zef_head *,
+#rp_head * {
+    background: #2a353d;
+}
+
+#logo>img {
+    content: url("https://i.redd.it/yrw5o4098j7a1.gif");
+}
