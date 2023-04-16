@@ -20,6 +20,9 @@
     color: #fff;
 }
 
+#editor {
+    visibility: collapse;
+}
 .lists * {
     background: #101417 !important;
     color: #fff;
