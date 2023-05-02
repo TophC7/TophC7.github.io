@@ -20,9 +20,10 @@
     color: #fff;
 }
 
-#editor {
-    visibility: collapse;
-}
+/* #editor {
+    visibility: collapse !important;
+} */
+
 .lists * {
     background: #101417 !important;
     color: #fff;
